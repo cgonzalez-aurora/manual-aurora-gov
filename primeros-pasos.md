@@ -4,7 +4,7 @@ title: Primeros pasos
 nav_order: 3
 ---
 
-## 3. Primeros pasos en Aurora Gov
+# Primeros pasos en Aurora Gov
 
 1. En el navegador web, ingresa a la URL de *Aurora Gov* (ejemplo: `http://localhost:4000/`).
 2. Ingresa la información en el formulario de inicio para crear la primera organización y los primeros integrantes.
