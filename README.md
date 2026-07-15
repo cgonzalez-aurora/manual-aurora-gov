@@ -1,3 +1,10 @@
+---
+layout: default
+title: Inicio
+nav_order: 1
+permalink: /
+---
+
 # Manual de Usuario: Aurora Gov
 
 ## 1. Introducción
