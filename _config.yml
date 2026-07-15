@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-primer
+remote_theme: just-the-docs/just-the-docs
+
+title: Manual Aurora Gov
+description: Guía de usuario para el sistema Aurora Gov.
