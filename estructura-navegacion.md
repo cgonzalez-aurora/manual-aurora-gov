@@ -7,7 +7,7 @@ nav_order: 4
 # Estructura Organizacional y Navegación
 
 Una vez iniciada la sesión, se pueden realizar acciones individuales y colectivas usando el menú izquierdo; para facilitar el uso del sistema se tiene un botón de acceso rápido para iniciar propuestas.
-![Botón gobernar de Aurora Gov](./images/boton-gobernar.png)
+![Botón gobernar de Aurora Gov](./images/btn-gobernar.png)
 
 Al presionar el botón Gobernar, se abre el siguiente formulario:
 ![Formulario gobernar de Aurora Gov](./images/formulario-gobernar.png)
