@@ -19,20 +19,13 @@ Se deben seleccionar la Unidad de Origen (donde sale la propuesta) y la Unidad D
 En el listado de Acción debe seleccionar una actividad según el tipo de propuesta que considere realizar.
 
 Las Acciones posibles son:
-  *Iniciar membresía
-  *Crear unidad organizacional
-  *Promover membresía
-  *Asignar rol
-  *Designar rol
-  *Archivar rol
+   * Iniciar membresía
+   * Crear unidad organizacional
+   * Promover membresía
+   * Asignar rol
+   * Designar rol
+   * Archivar rol
 
 ## **1. ¿Cómo se crea un nuevo integrante?**
 
 Una vez que hayas presionado el botón gobernar, ingreses la unidad de origen y destino, selecciona la Acción “Iniciar membresía”.
-
-
-
-## **2. ¿Cómo se crea una nueva organización?**
-## **3. ¿Cómo asignar personas a una organización?**
-## **4. ¿Cómo crear roles?
-## **5. ¿Cómo asignar tareas?
