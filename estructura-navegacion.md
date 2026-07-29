@@ -27,9 +27,12 @@ Las Acciones posibles son:
    * Archivar rol
 
 <details markdown="1">
-<summary><strong>📘 ¿Cómo crear una unidad organizacional? (Haz clic para ver las instrucciones)</strong></summary>
+<summary>
+    <strong><font size="5">📘 ¿Cómo crear una unidad organizacional?</font></strong><br>
+    <small><em>Haz clic para ver las instrucciones.</em></small>
+  </summary>
 
-a Seleccione la **Unidad de Origen** (desde donde se presenta la propuesta) y la **Unidad Destino** (donde se ejecutará la decisión).
+Seleccione la **Unidad de Origen** (desde donde se presenta la propuesta) y la **Unidad Destino** (donde se ejecutará la decisión).
 
 En el campo **Acción**, seleccione **Crear unidad organizacional** y haga clic en **Siguiente**.
 
