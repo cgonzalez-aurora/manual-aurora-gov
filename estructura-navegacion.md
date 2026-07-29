@@ -67,7 +67,7 @@ Si la información es correcta, haga clic en **Publicar** para presentar la prop
 
 ![Formulario 2 gobernar de Aurora Gov](./images/formulario-gobernar-unidad4.png)
 
-Al publicar la propuesta, el sistema redirige automáticamente a la pantalla de **Propuestas**, donde se muestran las **propuestas activas que requieren la participación de los miembros.
+Al publicar la propuesta, el sistema redirige automáticamente a la pantalla de **Propuestas**, donde se muestran las propuestas activas que requieren la participación de los miembros.
 
 En el costado derecho de la pantalla encontrará tres pestañas que permiten consultar y participar en la propuesta:
 
