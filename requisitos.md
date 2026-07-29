@@ -5,12 +5,29 @@ nav_order: 2
 ---
 
 # Requisitos
-## Requisitos de tu organización
-* **Tener una organización:** La organización debe tener un nombre y un objetivo.
-* **Roles de participación:** Cualquier persona puede ser integrante (sin derecho a voto), pero solo los miembros validados tienen derecho a voto.
-* **Equidad de voto:** Los integrantes tienen el mismo peso (**1 persona = 1 voto**) una vez son admitidos como miembros.
-* **Principios organizativos:** Conocer los principios de la organización.
 
-## Requisitos técnicos para Aurora Gov
-* **Instalación:** Tener el sistema *Aurora Gov* instalado (sigue las instrucciones de instalación en el repositorio; próximamente instalador ejecutable).
-* **Acceso:** Tener acceso a la URL del portal web de *Aurora Gov*.
+## Requisitos de la organización
+
+Antes de utilizar **Aurora Gov**, la organización debe cumplir con los siguientes requisitos:
+
+* **Organización definida:** contar con una organización con un nombre y un objetivo claramente establecidos.
+* **Aplicar los principios de Organización A:** la organización debe aplicar el modelo **Organización A** como base para su estructura y funcionamiento. Este modelo define los principios organizativos sobre los cuales opera Aurora Gov.
+
+## Requisitos técnicos
+
+Para utilizar **Aurora Gov** se requiere:
+
+* **Sistema instalado:** tener **Aurora Gov** instalado siguiendo las instrucciones de instalación disponibles en el repositorio oficial.
+* **Acceso al sistema:** disponer de la dirección web (URL) donde se encuentra publicado **Aurora Gov**.
+
+## Requisitos recomendados del servidor
+
+Para un funcionamiento adecuado de **Aurora Gov**, se recomienda que el servidor cuente como mínimo con las siguientes características:
+
+| Recurso | Recomendado |
+|---------|-------------|
+| Procesador | 2 núcleos |
+| Memoria RAM | 4 GB |
+| Almacenamiento | 10 GB libres |
+| Base de datos | PostgreSQL |
+| Navegador web | Mozilla Firefox, Google Chrome, Microsoft Edge o Safari (versiones recientes) |
