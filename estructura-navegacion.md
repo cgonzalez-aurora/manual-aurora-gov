@@ -29,7 +29,7 @@ Las Acciones posibles son:
 <details markdown="1">
 <summary><strong>📘 ¿Cómo crear una unidad organizacional? (Haz clic para ver las instrucciones)</strong></summary>
 
-Seleccione la **Unidad de Origen** (desde donde se presenta la propuesta) y la **Unidad Destino** (donde se ejecutará la decisión).
+a Seleccione la **Unidad de Origen** (desde donde se presenta la propuesta) y la **Unidad Destino** (donde se ejecutará la decisión).
 
 En el campo **Acción**, seleccione **Crear unidad organizacional** y haga clic en **Siguiente**.
 
