@@ -34,6 +34,7 @@ Las Acciones posibles son:
 
 Seleccione la **Unidad de Origen** (desde donde se presenta la propuesta) y la **Unidad Destino** (donde se ejecutará la decisión).
 
+
 En el campo **Acción**, seleccione **Crear unidad organizacional** y haga clic en **Siguiente**.
 
 ![Formulario 1 gobernar de Aurora Gov](./images/formulario-gobernar-unidad.png)
@@ -114,6 +115,57 @@ Si la información es correcta, haga clic en **Publicar** para presentar la prop
 También se muestra la opción **Utilizar poder delegado**, que permite realizar la propuesta mediante un poder delegado cuando corresponda.
 
 ![Resumen de la propuesta de membresía](./images/formulario-gobernar-membresia4.png)
+
+Al publicar la propuesta, el sistema redirige automáticamente a la pantalla de **Propuestas**, donde se muestran las propuestas activas que requieren la participación de los miembros.
+
+En el costado derecho de la pantalla encontrará tres pestañas que permiten consultar y participar en la propuesta:
+
+   * **Información:** presenta los datos generales de la propuesta.
+   * **Estado:** muestra el estado de la votación y, cuando corresponda, permite promulgar la decisión.
+   * **Discusión:** permite consultar los argumentos registrados por los participantes y emitir el voto sobre la propuesta.
+
+</details>
+
+
+
+<details markdown="1">
+<summary>
+  <strong><font size="5">📘 ¿Cómo crear un rol?</font></strong><br>
+  <small><em>Haz clic para ver las instrucciones.</em></small>
+</summary>
+
+Seleccione la **Unidad de Origen** (desde donde se presenta la propuesta) y la **Unidad Destino** (donde se iniciará la membresía).
+
+En el campo **Acción**, seleccione **Crear rol** y haga clic en **Siguiente →**.
+
+![Formulario Gobernar - Crear rol](./images/formulario-gobernar-crear-rol.png)
+
+A continuación, se solicitará la información de la propuesta.
+
+* **Nombre del rol:** Asigne un nombre claro e identificativo para la función propuesta.
+* **Descripción del rol:** Detalle brevemente las responsabilidades y el propósito del rol dentro de la unidad.
+
+Una vez completados los campos, haga clic en **Siguiente →**.
+
+![Formulario Gobernar - Detalles del rol](./images/formulario-gobernar-crear-rol2.png)
+
+Complete la información general de la propuesta:
+
+* **Título propuesta:** Ingrese un título claro y descriptivo para la propuesta.
+* **Descripción propuesta:** Explique el motivo y la justificación de la propuesta presentándola a la comunidad.
+
+Una vez diligenciados los campos, haga clic en **Revisar**.
+
+![Formulario Gobernar - Información de propuesta](./images/formulario-gobernar-crear-rol3.png)
+
+Verifique la información en la pantalla de **Resumen de la Propuesta**:
+
+* Valide que el **Origen**, **Destino**, título, descripción y la acción (**Crear rol**) coincidan con los datos ingresados.
+* Marque la casilla **Utilizar poder delegado** únicamente si aplica para su caso.
+
+Finalmente, haga clic en el botón **Publicar** para registrar y formalizar la propuesta en el sistema.
+
+![Formulario Gobernar - Resumen y publicación](./images/formulario-gobernar-crear-rol4.png)
 
 Al publicar la propuesta, el sistema redirige automáticamente a la pantalla de **Propuestas**, donde se muestran las propuestas activas que requieren la participación de los miembros.
 
