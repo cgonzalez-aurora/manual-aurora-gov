@@ -75,7 +75,9 @@ En el costado derecho de la pantalla encontrará tres pestañas que permiten con
    * **Discusión:** permite consultar los argumentos registrados por los participantes y emitir el voto sobre la propuesta.
 
 
+</details>
 
+<details markdown="1">
 <summary>
   <strong><font size="5">📘 ¿Cómo iniciar una membresía?</font></strong><br>
   <small><em>Haz clic para ver las instrucciones.</em></small>
