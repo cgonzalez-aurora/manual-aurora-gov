@@ -28,9 +28,9 @@ Las Acciones posibles son:
 
 <details markdown="1">
 <summary>
-    <strong><font size="5">📘 ¿Cómo crear una unidad organizacional?</font></strong><br>
-    <small><em>Haz clic para ver las instrucciones.</em></small>
-  </summary>
+  <strong><font size="5">📘 ¿Cómo crear una unidad organizacional?</font></strong><br>
+  <small><em>Haz clic para ver las instrucciones.</em></small>
+</summary>
 
 Seleccione la **Unidad de Origen** (desde donde se presenta la propuesta) y la **Unidad Destino** (donde se ejecutará la decisión).
 
@@ -73,5 +73,44 @@ En el costado derecho de la pantalla encontrará tres pestañas que permiten con
    * **Información:** presenta los datos generales de la propuesta.
    * **Estado:** muestra el estado de la votación y, cuando corresponda, permite promulgar la decisión.
    * **Discusión:** permite consultar los argumentos registrados por los participantes y emitir el voto sobre la propuesta.
+
+
+
+<summary>
+  <strong><font size="5">📘 ¿Cómo iniciar una membresía?</font></strong><br>
+  <small><em>Haz clic para ver las instrucciones.</em></small>
+</summary>
+
+Seleccione la **Unidad de Origen** (desde donde se presenta la propuesta) y la **Unidad Destino** (donde se iniciará la membresía).
+
+En el campo **Acción**, seleccione **Iniciar membresía** y haga clic en **Siguiente**.
+
+![Formulario Gobernar - Iniciar membresía](./images/formulario-gobernar-membresia.png)
+
+A continuación, se solicitará el identificador de la persona que iniciará la membresía.
+
+En el campo **Persona**, ingrese el **identificador de la persona** que desea incorporar a la unidad organizacional.
+
+Una vez ingresado el identificador, haga clic en **Siguiente** para continuar.
+
+![Formulario para iniciar membresía](./images/formulario-gobernar-membresia2.png)
+
+A continuación, se solicitará la información de la propuesta.
+
+En el campo **Título propuesta**, ingrese un título breve que permita identificar fácilmente la decisión que se está proponiendo.
+
+En **Descripción propuesta**, explique brevemente el propósito de la propuesta y la acción que se desea realizar.
+
+Una vez completada la información, haga clic en **Revisar** para continuar.
+
+![Formulario para iniciar membresía - Propuesta](./images/formulario-gobernar-membresia3.png)
+
+Se mostrará un **resumen de la propuesta** con la información que se ingresó en los pasos anteriores. Verifique que los datos de origen, destino, persona y descripción sean correctos.
+
+Si la información es correcta, haga clic en **Publicar** para presentar la propuesta a la decisión de la comunidad.
+
+También se muestra la opción **Utilizar poder delegado**, que permite realizar la propuesta mediante un poder delegado cuando corresponda.
+
+![Resumen de la propuesta de membresía](./images/formulario-gobernar-membresia4.png)
 
 </details>
