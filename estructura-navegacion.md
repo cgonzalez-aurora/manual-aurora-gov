@@ -115,4 +115,12 @@ También se muestra la opción **Utilizar poder delegado**, que permite realizar
 
 ![Resumen de la propuesta de membresía](./images/formulario-gobernar-membresia4.png)
 
+Al publicar la propuesta, el sistema redirige automáticamente a la pantalla de **Propuestas**, donde se muestran las propuestas activas que requieren la participación de los miembros.
+
+En el costado derecho de la pantalla encontrará tres pestañas que permiten consultar y participar en la propuesta:
+
+   * **Información:** presenta los datos generales de la propuesta.
+   * **Estado:** muestra el estado de la votación y, cuando corresponda, permite promulgar la decisión.
+   * **Discusión:** permite consultar los argumentos registrados por los participantes y emitir el voto sobre la propuesta.
+
 </details>
