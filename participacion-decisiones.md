@@ -6,7 +6,7 @@ has_children: true
 permalink: /participacion-decisiones/
 ---
 
-# Participación y Decisiones
+# Participación y Toma de Decisiones
 
 En AuroraGov la toma de decisiones no depende de una sola persona, sino de la construcción colectiva de consensos. Esta sección explica cómo configurar tus preferencias de voto, delegar facultades y participar en las propuestas del colectivo.
 
@@ -45,13 +45,13 @@ Si no puedes estar al tanto de todas las decisiones o confías en el criterio de
 
 ---
 
-## 3. Flujo de Propuestas y Votación
+## 3. ¿Cómo crear y gestionar una propuesta?
 
 Una vez configurados los parámetros colectivos, el proceso de decisión para una propuesta sigue este ciclo:
 
 1. **Creación de Propuesta:** Un miembro redacta una solicitud formal vinculada a un poder específico.
 2. **Revisión de Quórum:** La propuesta adopta automáticamente el porcentaje de aprobación definido previamente por la postura colectiva.
 3. **Emisión de Voto:** Cada usuario (o su delegado) ingresa al módulo **Propuestas** y emite su voto (A favor / En contra / Abstención).
-4. **Cierre y Ejecución:** Cuando se alcanzada la participación necesaria, si los votos afirmativos igualan o superan el quórum colectivo, la acción puede ser promulgada.
+4. **Cierre y Ejecución:** Cuando se alcanza la participación necesaria, si los votos afirmativos igualan o superan el quórum colectivo, la acción puede ser promulgada.
 
 ![Módulo de Propuestas AuroraGov](./images/pantalla-modulo-propuestas.png)
