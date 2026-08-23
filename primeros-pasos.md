@@ -2,6 +2,7 @@
 layout: default
 title: Primeros pasos
 nav_order: 3
+permalink: /primeros-pasos/
 ---
 
 # Primeros pasos en Aurora Gov
