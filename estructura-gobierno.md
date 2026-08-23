@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Estructura y Gobierno
+title: Estructura Organizacional y Gobierno
 has_children: true
 nav_order: 4
 permalink: /estructura-navegacion/
