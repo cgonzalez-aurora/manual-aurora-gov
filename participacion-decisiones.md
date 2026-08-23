@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Participación y Decisiones
+title: Participación y Toma de Decisiones
 nav_order: 5
+has_children: true
+permalink: /participacion-decisiones/
 ---
 
 # Participación y Decisiones
