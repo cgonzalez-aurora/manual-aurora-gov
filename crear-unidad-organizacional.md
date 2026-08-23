@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ¿Cómo crear una unidad organizacional?
-parent: Estructura y Navegación
+parent: Estructura Organizacional y Gobierno
 nav_order: 1
 permalink: /estructura-navegacion/crear-unidad/
 ---
