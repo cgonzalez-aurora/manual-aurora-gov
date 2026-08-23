@@ -39,8 +39,6 @@ Si no puedes estar al tanto de todas las decisiones o confías en el criterio de
 * **Impacto:** La unidad seleccionada usará tu voto en las propuestas agrupadas bajo ese poder específico.
 * **Control:** Puedes revocar la delegación en cualquier momento haciendo clic en **DESACTIVAR** para recuperar el control directo de tu postura.
 
-![Delegación de Poder Desactivada](./images/modulo-poder-delegacion1.png)
-
 ![Delegación de Poder Activada](./images/modulo-poder-delegacion2.png)
 
 ---
