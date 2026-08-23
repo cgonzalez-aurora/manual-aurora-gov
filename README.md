@@ -11,14 +11,13 @@ permalink: /
 
 | 📑 Índice de Contenido | Módulo |
 | :--- | :---: |
-| **[1. Introducción](./#1-introducción)** | 📖 |
-| **[2. Requisitos del Sistema](./requisitos)** | ⚙️ |
-| **[3. Primeros Pasos](./primeros-pasos)** | 🚀 |
-| **[4. Estructura Organizacional y Gobierno](./estructura-navegacion)** | 🏛️ |
-| &nbsp;&nbsp;&nbsp;&nbsp;└─ *[4.1. ¿Cómo crear una unidad organizacional?](./estructura-navegacion#cómo-crear-una-unidad-organizacional)* | 🏗️ |
-| **[5. Participación y Toma de Decisiones](./participacion-decisiones)** | 🗳️ |
-| &nbsp;&nbsp;&nbsp;&nbsp;├─ *[5.1. ¿Cómo crear y gestionar una propuesta?](./participacion-decisiones#cómo-crear-y-gestionar-una-propuesta)* | 📝 |
-| &nbsp;&nbsp;&nbsp;&nbsp;└─ *[5.2. ¿Cómo emitir un voto o postura?](./participacion-decisiones#cómo-emitir-un-voto-o-postura)* | ✅ |
-| **[6. Glosario de Términos](./glosario)** | 📚 |
+| **[1. Requisitos del Sistema](/requisitos/)** | ⚙️ |
+| **[2. Primeros Pasos](/primeros-pasos/)** | 🚀 |
+| **[3. Estructura Organizacional y Gobierno](/estructura-navegacion/)** | 🏛️ |
+| &nbsp;&nbsp;&nbsp;&nbsp;└─ *[3.1. ¿Cómo crear una unidad organizacional?](/estructura-navegacion/crear-unidad/)* | 🏗️ |
+| **[4. Participación y Toma de Decisiones](/participacion-decisiones/)** | 🗳️ |
+| &nbsp;&nbsp;&nbsp;&nbsp;├─ *[4.1. ¿Cómo crear y gestionar una propuesta?](/participacion-decisiones/crear-propuesta/)* | 📝 |
+| &nbsp;&nbsp;&nbsp;&nbsp;└─ *[4.2. ¿Cómo emitir un voto o postura?](/participacion-decisiones/voto-postura/)* | ✅ |
+| **[5. Glosario de Términos](/glosario/)** | 📚 |
 
 ---
