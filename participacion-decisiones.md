@@ -14,6 +14,8 @@ En AuroraGov la toma de decisiones no depende de una sola persona, sino de la co
 
 Antes de votar en propuestas concretas, cada miembro define su grado de exigencia o respaldo para las diferentes acciones de la organización.
 
+![Módulo de Poder AuroraGov](./images/pantalla-modulo-poder.png)
+
 * **Sección Poderes:** Muestra el listado de acciones gobernables (ej. *Iniciar membresía*, *Crear unidad organizacional*, *Crear rol*).
 * **Configuración de "Mi Postura":** Al seleccionar una tarjeta de poder, en el panel lateral derecho haz clic en la caja **MI POSTURA** (o en el icono de edición) para abrir la ventana modal **Actualizar postura**.
 * **Uso del Deslizador:** Dentro del modal, ajusta la barra deslizable (0% a 100%) según el porcentaje mínimo de aprobación que exiges para validar esa acción:
@@ -21,8 +23,6 @@ Antes de votar en propuestas concretas, cada miembro define su grado de exigenci
   * **50% (Postura neutra):** Exiges mayoría simple.
   * **51% - 100% (Postura estricta):** Exiges un consenso amplio o cualificado para aprobar.
 * **Cálculo del Quórum Colectivo:** Al hacer clic en **Actualizar**, tu valor individual aporta al cálculo del promedio de las posturas de todos los miembros activos (**Postura colectiva**). Este porcentaje final determina el Quórum necesario para aprobar futuras propuestas sobre dicho poder.
-
-![Módulo de Poder AuroraGov](./images/pantalla-modulo-poder.png)
 
 ![Modal Actualizar Postura AuroraGov](./images/modulo-poder-actualizar-postura.png)
 
