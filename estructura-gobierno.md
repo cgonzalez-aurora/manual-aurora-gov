@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Estructura y Navegación
+title: Estructura y Gobierno
+has_children: true
 nav_order: 4
+permalink: /estructura-navegacion/
 ---
 
-# Estructura Organizacional y Navegación
+# Estructura Organizacional y Gobierno
 
 Una vez iniciada la sesión, se pueden realizar acciones individuales y colectivas utilizando el menú lateral izquierdo. Para agilizar los procesos de gobernanza, la plataforma cuenta con el botón de acceso rápido **Gobernar**.
 
